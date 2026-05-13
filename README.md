@@ -15,7 +15,7 @@ After you've installed and activated the plugin:
 ![Simple](https://github.com/akaalias/obsidian-extract-pdf-highlights/blob/main/simple.gif?raw=true)
 
 ### Demo with all optional settings turned on
-![Settings](https://github.com/akaalias/obsidian-extract-pdf-highlights/blob/main/settings.gif?raw=true)
+![Settings](https://github.com/spencermarcu/obsidian-extract-pdf-highlights/blob/main/settings.gif?raw=true)
 
 ### Optional settings
 
